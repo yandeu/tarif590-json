@@ -2,7 +2,9 @@
 
 Turns `Tarif_590.xlsx` into `tarif590.json`.
 
-Update `tarif590.json` once a year!
+Current version: **V6**
+
+_Update your `tarif590.json` once a year!_
 
 Download the latest Tarif590 from somewhere here:
 
