@@ -1,0 +1,682 @@
+{
+  "1003": {
+    "de": "Akupressur, pro 5 Minuten",
+    "fr": "Acupressure, par période de 5 minutes",
+    "it": "Acupressione, ogni 5 min."
+  },
+  "1004": {
+    "de": "Akupunktur, pro 5 Minuten",
+    "fr": "Acupuncture, par période de 5 minutes",
+    "it": "Agopuntura, ogni 5 min."
+  },
+  "1005": {
+    "de": "APM-Therapie (Akupunktmassage-Therapie), pro 5 Minuten",
+    "fr": "APM thérapie (Thérapie par le massage sur méridiens d'acupuncture), par période de 5 minutes",
+    "it": "APM terapia (Terapia per il massaggio su meridiani d’agopuntura), ogni 5 min."
+  },
+  "1006": {
+    "de": "Alexander-Technik, pro 5 Minuten",
+    "fr": "Technique Alexander, par période de 5 minutes",
+    "it": "Tecnica Alexander, ogni 5 min."
+  },
+  "1007": {
+    "de": "Tui-Na/An-Mo, pro 5 Minuten",
+    "fr": "Tui-Na/An-Mo, par période de 5 minutes",
+    "it": "Tui-Na/An-Mo, ogni 5 min."
+  },
+  "1008": {
+    "de": "Anthroposophische Medizin, Behandlung/Konsultation, pro 5 Minuten",
+    "fr": "Médécine anthroposophique, traitement/consultation, par période de 5 minutes",
+    "it": "Medicina antroposofica, trattamento/consultazione, ogni 5 min."
+  },
+  "1010": {
+    "de": "Aromatherapie, pro 5 Minuten",
+    "fr": "Aromathérapie, par période de 5 minutes",
+    "it": "Aromaterapia, ogni 5 min."
+  },
+  "1011": {
+    "de": "Asiatische Körper- und Energiearbeit, pro 5 Minuten",
+    "fr": "Travail asiatique d’énergie et du corps, par période de 5 minutes",
+    "it": "Terapia asiatica per il corpo e l'energia, ogni 5 min."
+  },
+  "1012": {
+    "de": "Atemtherapie, pro 5 Minuten",
+    "fr": "Thérapie respiratoire, par période de 5 minutes",
+    "it": "Terapia respiratoria, ogni 5 min."
+  },
+  "1013": {
+    "de": "Atlaslogie, pro 5 Minuten",
+    "fr": "Atlaslogie, par période de 5 minutes",
+    "it": "Atlaslogia, ogni 5 min."
+  },
+  "1014": {
+    "de": "Audio-Psycho-Phonologie/Tomatis, pro 5 Minuten",
+    "fr": "Audio-psycho-phonologie/Tomatis, par période de 5 minutes",
+    "it": "Audiopsicofonologia/Tomatis, ogni 5 min."
+  },
+  "1016": {
+    "de": "Aura-Soma-Therapie, pro 5 Minuten",
+    "fr": "Auro-Soma thérapie, par période de 5 minutes",
+    "it": "Aura Soma terapia, ogni 5 min."
+  },
+  "1017": {
+    "de": "Autogenes Training, pro 5 Minuten",
+    "fr": "Training autogène, par période de 5 minutes",
+    "it": "Training autogeno, ogni 5 min."
+  },
+  "1021": {
+    "de": "Ayurveda-Massage, pro 5 Minuten",
+    "fr": "Massage ayurvédique, par période de 5 minutes",
+    "it": "Massaggio ayurvedico, ogni 5 min."
+  },
+  "1022": {
+    "de": "Bachblüten-Therapie, pro 5 Minuten",
+    "fr": "Thérapie des fleurs de Bach, par période de 5 minutes",
+    "it": "Terapia dei fiori di Bach, ogni 5 min."
+  },
+  "1024": {
+    "de": "Bewegungstherapie, pro 5 Minuten",
+    "fr": "Thérapie par le mouvement (intégrat./cliniq.), par période de 5 minutes",
+    "it": "Terapia dei movimenti, integrativa/clinica, ogni 5 min."
+  },
+  "1025": {
+    "de": "Bindegewebsmassage, pro 5 Minuten",
+    "fr": "Massage du tissu conjonctif, par période de 5 minutes",
+    "it": "Massaggio del tessuto connettivo, ogni 5 min."
+  },
+  "1026": {
+    "de": "Bio-Feedback (exkl. Neurofeedback), pro 5 Minuten",
+    "fr": "Biofeedback, par période de 5 minutes",
+    "it": "Biofeedback, ogni 5 min."
+  },
+  "1027": {
+    "de": "Bioresonanz-Therapie, pro 5 Minuten",
+    "fr": "Biorésonance, par période de 5 minutes",
+    "it": "Biorisonanza, ogni 5 min."
+  },
+  "1028": {
+    "de": "Biochemie nach Schüssler, Behandlung/Konsultation, pro 5 Minuten",
+    "fr": "Biochimie selon Schüssler, par période de 5 minutes",
+    "it": "Biochimica secondo Schüssler, ogni 5 min."
+  },
+  "1029": {
+    "de": "Biodynamische Psychologie / Biodynamik, pro 5 Minuten",
+    "fr": "Psychologie biodynamique/Biodynamique, par période de 5 minutes",
+    "it": "Psicologia biodinamica / biodinamica, ogni 5 min."
+  },
+  "1030": {
+    "de": "Blutegel-Therapie, pro 5 Minuten ",
+    "fr": "Sangsues, par période de 5 minutes",
+    "it": "Sanguisughe, ogni 5 min. "
+  },
+  "1031": {
+    "de": "Brain Gym, pro 5 Minuten",
+    "fr": "Brain Gym, par période de 5 minutes",
+    "it": "Brain Gym, ogni 5 min."
+  },
+  "1032": {
+    "de": "Colon-Hydro-Therapie, pro 5 Minuten",
+    "fr": "Hydrothérapie du côlon, par période de 5 minutes",
+    "it": "Idroterapia del colon, ogni 5 min."
+  },
+  "1033": {
+    "de": "Colon-Massage, pro 5 Minuten",
+    "fr": "Massage du côlon, par période de 5 minutes",
+    "it": "Massaggio del colon, ogni 5 min."
+  },
+  "1034": {
+    "de": "Craniosacral Therapie, pro 5 Minuten",
+    "fr": "Thérapie craniosacrale, par période de 5 minutes",
+    "it": "Terapia craniosacrale, ogni 5 min."
+  },
+  "1035": {
+    "de": "Deep Draining, pro 5 Minuten",
+    "fr": "Deep Draining, par période de 5 minutes",
+    "it": "Deep Draining, ogni 5 min."
+  },
+  "1036": {
+    "de": "Eigenblut-/Autosanguistufentherapie, pro 5 Minuten",
+    "fr": "Autohémothérapie/thérapie autosanguine ",
+    "it": "Autoemoterapia / Terapia autosanguinea"
+  },
+  "1037": {
+    "de": "Elektroakupunktur, pro 5 Minuten    ",
+    "fr": "Électroacupuncture, par période de 5 minutes",
+    "it": "Elettroagopuntura, ogni 5 min.    "
+  },
+  "1038": {
+    "de": "Elektroakupunktur nach Voll, pro 5 Minuten    ",
+    "fr": "Électroacupuncture selon Voll, par période de 5 minutes",
+    "it": "Elettroagopuntura secondo Voll, ogni 5 min.    "
+  },
+  "1039": {
+    "de": "Elektrotherapie, pro 5 Minuten",
+    "fr": "Électrothérapie, par période de 5 minutes",
+    "it": "Elettroterapia, ogni 5 min."
+  },
+  "1045": {
+    "de": "Esalen Massage, pro 5 Minuten",
+    "fr": "Massage ésalien, par période de 5 minutes",
+    "it": "Massaggio Esalen, ogni 5 min."
+  },
+  "1047": {
+    "de": "Eutonie Gerda Alexander, pro 5 Minuten",
+    "fr": "Eutonie Gerda Alexander, par période de 5 minutes",
+    "it": "Eutonia Gerda Alexander, ogni 5 min."
+  },
+  "1048": {
+    "de": "Farbpunktur, pro 5 Minuten",
+    "fr": "Chromopuncture, par période de 5 minutes",
+    "it": "Cromopuntura, ogni 5 min."
+  },
+  "1049": {
+    "de": "Farbtherapie, pro 5 Minuten",
+    "fr": "Thérapie par la couleur, par période de 5 minutes",
+    "it": "Cromoterapia, ogni 5 min."
+  },
+  "1050": {
+    "de": "Faszientherapie, pro 5 Minuten",
+    "fr": "Fasciathérapie, par période de 5 minutes",
+    "it": "Fasciaterapia, ogni 5 min."
+  },
+  "1051": {
+    "de": "Feldenkrais-Therapie, pro 5 Minuten",
+    "fr": "Méthode Feldenkrais, par période de 5 minutes",
+    "it": "Metodo Feldenkrais, ogni 5 min."
+  },
+  "1052": {
+    "de": "Fussreflexzonen-Therapie pro 5 Minuten",
+    "fr": "Massage des zones réflexes du pied, par période de 5 minutes",
+    "it": "Riflessologia plantare, ogni 5 min."
+  },
+  "1053": {
+    "de": "Hämatogene Oxydationstherapie, pro 5 Minuten",
+    "fr": "Thérapie d’oxydation hématogène, par période de 5 minutes",
+    "it": "Terapia d'ossidazione ematogena, ogni 5 min."
+  },
+  "1054": {
+    "de": "Yoga-Therapie, pro 5 Minuten",
+    "fr": "Yoga thérapie, par période de 5 minutes",
+    "it": "Yoga terapia, ogni 5 min."
+  },
+  "1055": {
+    "de": "Heileurythmie, pro 5 Minuten",
+    "fr": "Eurythmie thérapeutique, par période de 5 minutes",
+    "it": "Euritmia terapeutica, ogni 5 min."
+  },
+  "1056": {
+    "de": "Heilpädagogisches Reiten, Therapeutisches Reiten, pro 5 Minuten",
+    "fr": "Hippothérapie, par période de 5 minutes",
+    "it": "Equitazione pedagogica, ogni 5 min."
+  },
+  "1057": {
+    "de": "Homöopathie, Behandlung/Konsultation, pro 5 Minuten",
+    "fr": "Homéopathie, Traitement/Consultation, par période de 5 minutes",
+    "it": "Omeopatia, Trattamento/Consultazione, ogni 5 min."
+  },
+  "1058": {
+    "de": "Hydrotherapie,  pro 5 Minuten",
+    "fr": "Hydrothérapie, par période de 5 minutes",
+    "it": "Idroterapia, ogni 5 min."
+  },
+  "1060": {
+    "de": "Kinesiologie, pro 5 Minuten",
+    "fr": "Kinésiologie, par période de 5 minutes",
+    "it": "Kinesiologia, ogni 5 min."
+  },
+  "1061": {
+    "de": "Klangtherapie pro  5 Minuten",
+    "fr": "Thérapie sonore, par période de 5 minutes",
+    "it": "Terapia del suono, ogni 5 min."
+  },
+  "1062": {
+    "de": "Klassische Massage, pro 5 Minuten",
+    "fr": "Massage classique, par période de 5 minutes",
+    "it": "Massaggio classico, ogni 5 min."
+  },
+  "1063": {
+    "de": "Kneipp-Therapie, pro 5 Minuten",
+    "fr": "Thérapie selon Kneipp, par période de 5 minutes",
+    "it": "Terapia Kneipp, ogni 5 min."
+  },
+  "1064": {
+    "de": "Laser-Akupunktur, pro 5 Minuten",
+    "fr": "Acupuncture par laser, par période de 5 minutes",
+    "it": "Agopuntura laser, ogni 5 min."
+  },
+  "1065": {
+    "de": "Lichttherapie, pro 5 Minuten",
+    "fr": "Thérapie par la lumière, par période de 5 minutes",
+    "it": "Terapia con luce, ogni 5 min."
+  },
+  "1066": {
+    "de": "Lymphdrainage, manuelle, pro 5 Minuten",
+    "fr": "Drainage lymphatique (manuel), par période de 5 minutes",
+    "it": "Linfodrenaggio manuale, ogni 5 min."
+  },
+  "1067": {
+    "de": "Magnetfeldtherapie, pro 5 Minuten",
+    "fr": "Magnétothérapie/thérapie par champs magnétiques, par période de 5 minutes ",
+    "it": "Magnetoterapia, ogni 5 min."
+  },
+  "1068": {
+    "de": "Maltherapie, pro 5 Minuten",
+    "fr": "Thérapie par la peinture, par période de 5 minutes",
+    "it": "Terapia della pittura, ogni 5 min."
+  },
+  "1069": {
+    "de": "Mesotherapie, pro 5 Minuten",
+    "fr": "Mésothérapie, par période de 5 minutes",
+    "it": "Mesoterapia, ogni 5 min."
+  },
+  "1070": {
+    "de": "Metamorphosis, pro 5 Minuten",
+    "fr": "Massage métamorphique, par période de 5 minutes",
+    "it": "Metamorfosi, ogni 5 min."
+  },
+  "1071": {
+    "de": "Moxibustion, pro 5 Minuten",
+    "fr": "Moxibustion, par période de 5 minutes",
+    "it": "Moxibustione, ogni 5 min."
+  },
+  "1072": {
+    "de": "Musiktherapie, pro 5 Minuten",
+    "fr": "Musicothérapie, par période de 5 minutes",
+    "it": "Musicoterapia, ogni 5 min."
+  },
+  "1073": {
+    "de": "Muskelreflexzonenmassage, pro 5 Minuten",
+    "fr": "Massage des zones réflexes musculaires, par période de 5 minutes",
+    "it": "Massaggio delle zone riflesse muscolari, ogni 5 min."
+  },
+  "1074": {
+    "de": "Myofunktionelle Therapie, pro 5 Minuten",
+    "fr": "Thérapie myofonctionelle, par période de 5 minutes",
+    "it": "Terapia miofunzionale, ogni 5 min."
+  },
+  "1075": {
+    "de": "Neuraltherapie, pro 5 Minuten",
+    "fr": "Thérapie neurale, par période de 5 minutes",
+    "it": "Terapia neurale, ogni 5 min."
+  },
+  "1076": {
+    "de": "Neurofeedback, pro 5 Minuten",
+    "fr": "Neurofeedback, par période de 5 minutes",
+    "it": "Neurofeedback, ogni 5 min."
+  },
+  "1077": {
+    "de": "Ohrakupunktur, pro 5 Minuten",
+    "fr": "Acupuncture des oreilles, par période de 5 minutes  ",
+    "it": "Agopuntura auricolare, ogni 5 min."
+  },
+  "1079": {
+    "de": "Ohrkerzen-Therapie, pro 5 Minuten",
+    "fr": "Otothérapie par les bougies, par période de 5 minutes",
+    "it": "Ototerapia con candele, ogni 5 min."
+  },
+  "1080": {
+    "de": "Organisch-rhythmische Bewegungsbildung Medau, pro 5 Minuten",
+    "fr": "Formation du mouvement rythmo-organique Medau, par période de 5 minutes",
+    "it": "Terapia dei movimenti organico-ritmici Medau, ogni 5 min."
+  },
+  "1081": {
+    "de": "Ortho-Bionomy, pro 5 Minuten",
+    "fr": "Ortho-Bionomy, par période de 5 minutes",
+    "it": "Ortho-Bionomy, ogni 5 min."
+  },
+  "1082": {
+    "de": "Orthomolekulare Therapie, pro 5 Minuten",
+    "fr": "Thérapie orthomoléculaire, par période de 5 minutes",
+    "it": "Terapia ortomolecolare, ogni 5 min."
+  },
+  "1084": {
+    "de": "Ozontherapie, pro 5 Minuten",
+    "fr": "Thérapie par l’ozone, par période de 5 minutes",
+    "it": "Ozonoterapia, ogni 5 min."
+  },
+  "1085": {
+    "de": "Phytotherapie, pro 5 Minuten",
+    "fr": "Phytothérapie, par période de 5 minutes",
+    "it": "Fitoterapia, ogni 5 min."
+  },
+  "1087": {
+    "de": "Polarity, pro 5 Minuten",
+    "fr": "Polarity, par période de 5 minutes",
+    "it": "Polarity, ogni 5 min."
+  },
+  "1088": {
+    "de": "Posturale Integration, pro 5 Minuten",
+    "fr": "Intégration posturale, par période de 5 minutes",
+    "it": "Integrazione posturale, ogni 5 min."
+  },
+  "1089": {
+    "de": "Psychomotorik, pro 5 Minuten",
+    "fr": "Psychomotricité, par période de 5 minutes",
+    "it": "Psicomotricità, ogni 5 min."
+  },
+  "1090": {
+    "de": "Psychozonenmassage, pro 5 Minuten",
+    "fr": "Massage des zones psychogènes, par période de 5 minutes",
+    "it": "Massaggio delle zone psicogene, ogni 5 min."
+  },
+  "1091": {
+    "de": "Figurenspieltherapie, pro 5 Minuten",
+    "fr": "Thérapie de théâtre de marionnettes,  par période de 5 minutes",
+    "it": "Terapia con le marionette, ogni 5 min."
+  },
+  "1092": {
+    "de": "Qi-Gong, pro 5 Minuten",
+    "fr": "Qi Gong, par période de 5 minutes",
+    "it": "Qi-Gong, ogni 5 min."
+  },
+  "1093": {
+    "de": "Rebalancing, pro 5 Minuten",
+    "fr": "Rebalancing par période de 5 minutes",
+    "it": "Rebalancing, ogni 5 min."
+  },
+  "1094": {
+    "de": "Rebirthing, pro 5 Minuten",
+    "fr": "Thérapie par nouvelle naissance, par période de 5 minutes",
+    "it": "Rebirthing, ogni 5 min."
+  },
+  "1096": {
+    "de": "Reiki, pro 5 Minuten",
+    "fr": "Reiki, par période de 5 minutes",
+    "it": "Reiki, ogni 5 min."
+  },
+  "1097": {
+    "de": "Rolfing / Strukturelle Integration, pro 5 Minuten",
+    "fr": "Rolfing/intégration structurelle, par période de 5 minutes",
+    "it": "Rolfing / Integrazione strutturale, ogni 5 min."
+  },
+  "1098": {
+    "de": "Rhythmische Massage, anthrop., pro 5 Minuten",
+    "fr": "Massages rythmiques anthrop., par période de 5 minutes ",
+    "it": "Massaggio ritmico, antroposofico, ogni 5 min."
+  },
+  "1099": {
+    "de": "Sauerstoff-Mehrschritt-Therapie, pro 5 Minuten",
+    "fr": "Oxygénotherapie en plusieurs étapes, par période de 5 minutes",
+    "it": "Ossigenoterapia in diverse tappe, ogni 5 min."
+  },
+  "1100": {
+    "de": "Shiatsu, pro 5 Minuten",
+    "fr": "Shiatsu, par période de 5 minutes",
+    "it": "Shiatsu, ogni 5 min."
+  },
+  "1101": {
+    "de": "Shin Tai, pro 5 Minuten",
+    "fr": "Shin Tai, par période de 5 minutes",
+    "it": "Shin Tai, ogni 5 min."
+  },
+  "1102": {
+    "de": "Sophrologie / Sophrologie Caycedienne, pro 5 Minuten",
+    "fr": "Sophrologie / Sophrologie Caycédienne, par période de 5 minutes",
+    "it": "Sofrologia, Sofrologia Caycedienne, ogni 5 min."
+  },
+  "1104": {
+    "de": "Sumathu-Therapie, pro 5 Minuten",
+    "fr": "Thérapie Sumathu, par période de 5 minutes",
+    "it": "Sumathu, ogni 5 min."
+  },
+  "1105": {
+    "de": "Sympathico-Therapie, pro 5 Minuten",
+    "fr": "Sympathicothérapie, par période de 5 minutes",
+    "it": "Simpaticoterapia, ogni 5 min."
+  },
+  "1106": {
+    "de": "Tai-Chi, pro 5 Minuten",
+    "fr": "Tai Chi, par période de 5 minutes",
+    "it": "Tai-Chi, ogni 5 min."
+  },
+  "1108": {
+    "de": "Tanztherapie, pro 5 Minuten",
+    "fr": "Thérapie par la danse, par période de 5 minutes",
+    "it": "Terapia della danza, ogni 5 min."
+  },
+  "1111": {
+    "de": "Thai-Massage, pro 5 Minuten",
+    "fr": "Massage thaï, par période de 5 minutes",
+    "it": "Massaggio Thai, ogni 5 min."
+  },
+  "1113": {
+    "de": "Thermographie, pro 5 Minuten",
+    "fr": "Thermographie, par période de 5 minutes",
+    "it": "Termografia, ogni 5 min."
+  },
+  "1114": {
+    "de": "Tibetische Medizin, Behandlung/Konsultation, pro 5 Minuten",
+    "fr": "Médecine tibétaine, traitement/consultation, par période de 5 minutes",
+    "it": "Medicina tibetana, trattamento/consultazione, ogni 5 min."
+  },
+  "1115": {
+    "de": "Touch for Health, pro 5 Minuten",
+    "fr": "Touch for Health, par période de 5 minutes",
+    "it": "Touch for Health, ogni 5 min."
+  },
+  "1117": {
+    "de": "Trager, pro 5 Minuten",
+    "fr": "Massage selon Trager, par période de 5 minutes",
+    "it": "Metodo Trager, ogni 5 min."
+  },
+  "1118": {
+    "de": "Ultraviolettbestrahlung - Blut, pro 5 Minuten",
+    "fr": "Thérapie par du sang irradié (UV), par période de 5 minutes",
+    "it": "Terapia con sangue irradiato UV, ogni 5 min."
+  },
+  "1120": {
+    "de": "Vitalpraktik nach Vuille, pro 5 Minuten",
+    "fr": "Vitalpratique selon Vuille, par période de 5 minutes",
+    "it": "Vitalpratica di Vuille, ogni 5 min."
+  },
+  "1121": {
+    "de": "Wickel/Umschläge/Fango, pro 5 Minuten",
+    "fr": "Cataplasmes/enveloppements/fango, par période de 5 minutes",
+    "it": "Cataplasmi/impacchi/fango, ogni 5 min."
+  },
+  "1122": {
+    "de": "WS-Basis Ausgleich/WS-Basis-Therapie, pro 5 Minuten",
+    "fr": "Équilibration vertébrale, par période de 5 minutes",
+    "it": "Terapia di compensazione della base della colonna vertebrale, ogni 5 min."
+  },
+  "1123": {
+    "de": "Zilgrei, pro 5 Minuten",
+    "fr": "Zilgrei, par période de 5 minutes",
+    "it": "Metodo Zilgrei, ogni 5 min."
+  },
+  "1127": {
+    "de": "Homöopathie - Repertorisation, pro 5 Minuten",
+    "fr": "Homöopathie - Répertorisation, par période de 5 minutes",
+    "it": "Omeopatia, repertorizzazione, ogni 5 min."
+  },
+  "1128": {
+    "de": "Adveda-Eugemed-Therapie pro 5 Minuten",
+    "fr": "Thérapie Adveda-Eugemed, par période de 5 minutes",
+    "it": "Terapia Adveda-Eugemed, ogni 5 min."
+  },
+  "1131": {
+    "de": "Gestaltungstherapie, pro 5 Minuten",
+    "fr": "Thérapie à médiation plastique, par période de 5 minutes",
+    "it": "Terapia di modellagio, ogni 5 min."
+  },
+  "1132": {
+    "de": "Intermediale Therapie, pro 5 Minuten",
+    "fr": "Thérapie intermédiale, par période de 5 minutes",
+    "it": "Terapia intermediale, ogni 5 min."
+  },
+  "1133": {
+    "de": "Meridian-Therapie, pro 5 Minuten",
+    "fr": "Thérapie des méridiens, par période de 5 minutes",
+    "it": "Terapia dei meridiani, ogni 5 min."
+  },
+  "1134": {
+    "de": "Reflexzonentherapie, pro 5 Minuten",
+    "fr": "Réflexothérapie, par période de 5 minutes",
+    "it": "Riflessoterapia, ogni 5 min."
+  },
+  "1140": {
+    "de": "Microkinesitherapie, pro 5 Minuten",
+    "fr": "Microkinésithérapie, par période de 5 minutes",
+    "it": "Microkinésithérapie, ogni 5 min."
+  },
+  "1141": {
+    "de": "Dorn-/Breuss-Therapie, pro 5 Minuten",
+    "fr": "Thérapie Dorn/Breuss,  par période de 5 minutes",
+    "it": "Terapia Dorn/Breuss, ogni 5 min."
+  },
+  "1143": {
+    "de": "Cantharidenpflaster, pro 5 Min",
+    "fr": "Thérapie Cantharide, par période de 5 minutes",
+    "it": "La terapia Cantharide, ogni 5 min."
+  },
+  "1144": {
+    "de": "Entwicklungs- und Lerntherapie nach PäPKi, pro 5 Minuten",
+    "fr": "Thérapie du développement et de l'apprentissage selon PäPKi, par période de 5 minutes",
+    "it": "Terapia di sviluppo e apprendimento secondo PäPKi, ogni 5 min."
+  },
+  "1145": {
+    "de": "Bowtech, pro 5 Minuten ",
+    "fr": "Bowtech, par période de 5 minutes",
+    "it": "Bowtech, ogni 5 min. "
+  },
+  "1146": {
+    "de": "Einwirkzeit im Rahmen einer Behandlung, pro 5 Minuten",
+    "fr": "Temps d'effet dans le cadre d'un traitement, par 5 minutes",
+    "it": "Tempo di effetto entro un trattamento, ogni 5 minuti"
+  },
+  "1200": {
+    "de": "Anamnese / Untersuchung / Diagnostik / Befunderhebung, pro 5 Min.",
+    "fr": "anamnèse / bilan / diagnostique / constatations médicales, par période de 5 minutes",
+    "it": "anamnesi / esame / diagnostica / reperto, ogni 5 min. "
+  },
+  "1201": {
+    "de": "Dramatherapie, pro 5 Minuten",
+    "fr": "Thérapie par le drame, par période de 5 minutes",
+    "it": "Drammaterapia, ogni 5 min."
+  },
+  "1202": {
+    "de": "Therapeutische Sprachgestaltung, pro 5 Minuten",
+    "fr": "Art de parole thérapeutique, par période de 5 minutes",
+    "it": "Arte della parola terapeutica, ogni 5 min."
+  },
+  "1203": {
+    "de": "Osteopathie, pro 5 Minuten",
+    "fr": "Ostéopathie, par période de 5 minutes",
+    "it": "Osteopatia, ogni 5 min."
+  },
+  "1204": {
+    "de": "Etiopathie, pro 5 Minuten",
+    "fr": "Etiopathie, par période de 5 minutes",
+    "it": "Etiopatia, ogni 5 min."
+  },
+  "1205": {
+    "de": "Ausleitende Verfahren, pro 5 Minuten",
+    "fr": "Méthodes de détoxication, par période de 5 minutes",
+    "it": "Terapie devianti e ablative, ogni 5 min."
+  },
+  "1206": {
+    "de": "Ernährungstherapie, pro 5 Minuten",
+    "fr": "thérapie nutritionnelle, par période de 5 minutes",
+    "it": "terapia nutrizionale, ogni 5 min."
+  },
+  "1208": {
+    "de": "Arzneimitteltherapie, pro 5 Minuten",
+    "fr": "Traitement médicamenteux, par période de 5 minutes",
+    "it": "terapia medicamentosa, ogni 5 min."
+  },
+  "1209": {
+    "de": "Ayurvedische Güsse, pro 5 Minuten",
+    "fr": "Jets ayurvédique, par période de 5 minutes",
+    "it": "Getto ayurvedico, ogni 5 min."
+  },
+  "1210": {
+    "de": "Spiraldynamik, pro 5 Min.",
+    "fr": "Spiraldynamik,  par période de 5 minutes",
+    "it": "Spiraldynamik, ogni 5 min."
+  },
+  "1212": {
+    "de": "Ordnungstherapie, pro 5 Minuten",
+    "fr": "Thérapie de l'ordre, par période de 5 minutes",
+    "it": "Terapia dell'ordine, ogni 5 min."
+  },
+  "1213": {
+    "de": "Massagetechniken, pro 5 Minuten",
+    "fr": "Technique de massage, par période de 5 minutes",
+    "it": "Tecniche di massaggio, ogni 5 min."
+  },
+  "1214": {
+    "de": "Funktionelle Orthonomie und Integration, pro 5 Minuten",
+    "fr": "Orthonomie fonctionnelle et intégration, par période de 5 minutes",
+    "it": "Ortonomia funzionale e integrazione, ogni 5 min."
+  },
+  "1215": {
+    "de": "Ayurveda Therapie, pro 5 Minuten",
+    "fr": "Ayurvéda thérapie, par période de 5 minutes",
+    "it": "Ayurveda terapia, ogni 5 min."
+  },
+  "1216": {
+    "de": "Bewegungs- und Körpertherapie, pro 5 Minuten",
+    "fr": "Thérapie corporelle par le mouvement, par période de 5 minutes",
+    "it": "Terapia per il corpo e del movimento, ogni 5 min."
+  },
+  "1217": {
+    "de": "Kunsttherapie, pro 5 Minuten",
+    "fr": "Art-therapie, par période de 5 minutes ",
+    "it": "Arteterapie, ogni 5 min."
+  },
+  "1250": {
+    "de": "Verpasste Konsultation",
+    "fr": "Consultation manquée",
+    "it": "consultazione mancata"
+  },
+  "1251": {
+    "de": "Zuschlag Nacht, Sonn- und Feiertage",
+    "fr": "Supplément nuit, dimanche et jours fériés",
+    "it": "Supplemento notte, domenica e giorni festivi"
+  },
+  "1252": {
+    "de": "Zuschlag ausserordentliche Konsultation in Akutsituationen",
+    "fr": "Supplément consultation extraordinaire dans des situations aigües",
+    "it": "Supplemento per consultazione straordinaria in situazioni d’emergenza"
+  },
+  "1253": {
+    "de": "Formalisierter Bericht",
+    "fr": "Rapport formalisé",
+    "it": "Rapporto formalizzato"
+  },
+  "1254": {
+    "de": "Nicht formalisierter Bericht",
+    "fr": "Rapport non formalisé",
+    "it": "Rapporto non formalizzato"
+  },
+  "1255": {
+    "de": "Blutegel, pro Stück",
+    "fr": "Leeches, par pièce",
+    "it": "Sanguisuga, per pezzo"
+  },
+  "1256": {
+    "de": "Wegentschädigung",
+    "fr": "compensation de voyage",
+    "it": "compensazione di viaggio"
+  },
+  "1257": {
+    "de": "Koordination der Behandlung mit anderen Gesundheitsfachpersonen, pro 5 Minuten",
+    "fr": "Coordination du traitement avec d'autres professionnels de la santé, par période de 5 minutes",
+    "it": "Coordinamento del trattamento con altri professionisti della salute, ogni 5 min."
+  },
+  "1259": {
+    "de": "Liebscher & Bracht, pro 5 Minuten",
+    "fr": "Liebscher & Bracht, par période de 5 minutes",
+    "it": "Liebscher & Bracht, ogni 5 min."
+  },
+  "1302": {
+    "de": "Komplementärmedizinische Laborleistungen",
+    "fr": "Services de laboratoire médecine complémentaires",
+    "it": "Servizi di laboratorio medicina complementare"
+  },
+  "1310": {
+    "de": "Arzneimittel Komplementärmedizin",
+    "fr": "Remèdes médecine complémentaire",
+    "it": "Rimedi medicina complementare"
+  }
+}
