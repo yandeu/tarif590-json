@@ -2,7 +2,7 @@ import { read } from 'xlsx/xlsx.mjs'
 import { resolve } from 'path'
 import { readFile, writeFile } from 'fs/promises'
 
-const buffer = await readFile(resolve('Tarif_590.xlsx'))
+const buffer = await readFile(resolve('Tarif_590_v7.xlsx'))
 const workbook = read(buffer, {
   sheetStubs: true,
   cellDates: true,

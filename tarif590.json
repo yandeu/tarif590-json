@@ -131,8 +131,8 @@
   },
   "1036": {
     "de": "Eigenblut-/Autosanguistufentherapie, pro 5 Min.",
-    "fr": "Autohémothérapie/thérapie autosanguine ",
-    "it": "Autoemoterapia / Terapia autosanguinea"
+    "fr": "Autohémothérapie/thérapie autosanguine, par période de 5 min.",
+    "it": "Autoemoterapia / Terapia autosanguinea, ogni 5 min."
   },
   "1037": {
     "de": "Elektroakupunktur, pro 5 Min.    ",
@@ -180,7 +180,7 @@
     "it": "Metodo Feldenkrais, ogni 5 min."
   },
   "1052": {
-    "de": "Fussreflexzonen-Therapie pro 5 Min.",
+    "de": "Fussreflexzonen-Therapie, pro 5 Min.",
     "fr": "Massage des zones réflexes du pied, par période de 5 min.",
     "it": "Riflessologia plantare, ogni 5 min."
   },
@@ -220,7 +220,7 @@
     "it": "Kinesiologia, ogni 5 min."
   },
   "1061": {
-    "de": "Klangtherapie pro  5 Min.",
+    "de": "Klangtherapie, pro  5 Min.",
     "fr": "Thérapie sonore, par période de 5 min.",
     "it": "Terapia del suono, ogni 5 min."
   },
@@ -246,8 +246,8 @@
   },
   "1066": {
     "de": "Lymphdrainage, manuelle, pro 5 Min.",
-    "fr": "Drainage lymphatique (manuel), par période de 5 min.",
-    "it": "Linfodrenaggio manuale, ogni 5 min."
+    "fr": "Drainage lymphatique, manuel, par période de 5 min.",
+    "it": "Linfodrenaggio, manuale, ogni 5 min."
   },
   "1067": {
     "de": "Magnetfeldtherapie, pro 5 Min.",
@@ -293,11 +293,6 @@
     "de": "Neuraltherapie, pro 5 Min.",
     "fr": "Thérapie neurale, par période de 5 min.",
     "it": "Terapia neurale, ogni 5 min."
-  },
-  "1076": {
-    "de": "Neurofeedback, pro 5 Min.",
-    "fr": "Neurofeedback, par période de 5 min.",
-    "it": "Neurofeedback, ogni 5 min."
   },
   "1077": {
     "de": "Ohrakupunktur, pro 5 Min.",
@@ -366,7 +361,7 @@
   },
   "1093": {
     "de": "Rebalancing, pro 5 Min.",
-    "fr": "Rebalancing par période de 5 min.",
+    "fr": "Rebalancing, par période de 5 min.",
     "it": "Rebalancing, ogni 5 min."
   },
   "1094": {
@@ -485,7 +480,7 @@
     "it": "Omeopatia, repertorizzazione, ogni 5 min."
   },
   "1128": {
-    "de": "Adveda-Eugemed-Therapie pro 5 Min.",
+    "de": "Adveda-Eugemed-Therapie, pro 5 Min.",
     "fr": "Thérapie Adveda-Eugemed, par période de 5 min.",
     "it": "Terapia Adveda-Eugemed, ogni 5 min."
   },
@@ -515,7 +510,7 @@
     "it": "Terapia Dorn/Breuss, ogni 5 min."
   },
   "1143": {
-    "de": "Cantharidenpflaster, pro 5 Min",
+    "de": "Cantharidenpflaster, pro 5 Min.",
     "fr": "Thérapie Cantharide, par période de 5 min.",
     "it": "La terapia Cantharide, ogni 5 min."
   },
@@ -531,13 +526,13 @@
   },
   "1146": {
     "de": "Einwirkzeit im Rahmen einer Behandlung, pro 5 Min.",
-    "fr": "Temps d'effet dans le cadre d'un traitement, par 5 min.",
-    "it": "Tempo di effetto entro un trattamento, ogni 5 minuti"
+    "fr": "Temps d'effet dans le cadre d'un traitement, par période de 5 min.",
+    "it": "Tempo di effetto entro un trattamento, ogni 5 min."
   },
   "1200": {
     "de": "Anamnese / Untersuchung / Diagnostik / Befunderhebung, pro 5 Min.",
-    "fr": "anamnèse / bilan / diagnostique / constatations médicales, par période de 5 min.",
-    "it": "anamnesi / esame / diagnostica / reperto, ogni 5 min. "
+    "fr": "Anamnèse / bilan / diagnostic / constatations médicales, par période de 5 min.",
+    "it": "Anamnesi / esame / diagnostica / reperto, ogni 5 min. "
   },
   "1201": {
     "de": "Dramatherapie, pro 5 Min.",
@@ -566,13 +561,13 @@
   },
   "1206": {
     "de": "Ernährungstherapie, pro 5 Min.",
-    "fr": "thérapie nutritionnelle, par période de 5 min.",
-    "it": "terapia nutrizionale, ogni 5 min."
+    "fr": "Thérapie nutritionnelle, par période de 5 min.",
+    "it": "Terapia nutrizionale, ogni 5 min."
   },
   "1208": {
     "de": "Arzneimitteltherapie, pro 5 Min.",
     "fr": "Traitement médicamenteux, par période de 5 min.",
-    "it": "terapia medicamentosa, ogni 5 min."
+    "it": "Terapia medicamentosa, ogni 5 min."
   },
   "1209": {
     "de": "Ayurvedische Güsse, pro 5 Min.",
@@ -624,6 +619,16 @@
     "fr": "Hyperthermie, par période de 5 min.",
     "it": "Ipertermia, ogni 5 min."
   },
+  "1220": {
+    "de": "Boeger-Therapie, pro 5 Min. ",
+    "fr": "Thérapie Boeger, par période de 5 min. ",
+    "it": "Terapia Boeger, ogni 5 min."
+  },
+  "1221": {
+    "de": "Aquatische Körperarbeit, pro 5 Min.",
+    "fr": "Travail corporel aquatique, par période de 5min.",
+    "it": "Lavoro corpero acquatico, ogni 5min."
+  },
   "1250": {
     "de": "Verpasste Konsultation",
     "fr": "Consultation manquée",
@@ -656,8 +661,8 @@
   },
   "1256": {
     "de": "Wegentschädigung",
-    "fr": "compensation de voyage",
-    "it": "compensazione di viaggio"
+    "fr": "Compensation de voyage",
+    "it": "Compensazione di viaggio"
   },
   "1257": {
     "de": "Koordination der Behandlung mit anderen Gesundheitsfachpersonen, pro 5 Min.",
