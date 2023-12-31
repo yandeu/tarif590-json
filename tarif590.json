@@ -95,7 +95,7 @@
     "it": "Biorisonanza, ogni 5 min."
   },
   "1028": {
-    "de": "Biochemie nach Schüssler, Behandlung/Konsultation, pro 5 Min.",
+    "de": "Biochemie nach Schüssler, pro 5 Min.",
     "fr": "Biochimie selon Schüssler, par période de 5 min.",
     "it": "Biochimica secondo Schüssler, ogni 5 min."
   },
@@ -628,6 +628,16 @@
     "de": "Aquatische Körperarbeit, pro 5 Min.",
     "fr": "Travail corporel aquatique, par période de 5min.",
     "it": "Lavoro corpero acquatico, ogni 5min."
+  },
+  "1222": {
+    "de": "Sport- und Bewegungstherapie, pro 5 Min.",
+    "fr": "Thérapie du sport et en activité physique adaptée, par période de 5 min.",
+    "it": "Terapia della sport e attività fisica adattata, ogni 5 min."
+  },
+  "1223": {
+    "de": "Emotionelle Erste Hilfe, pro 5 Min.",
+    "fr": "Premiers Secours Emotionnels, par période de 5 min.",
+    "it": "Pronto Soccorso Emozionale, ogni 5 min."
   },
   "1250": {
     "de": "Verpasste Konsultation",
