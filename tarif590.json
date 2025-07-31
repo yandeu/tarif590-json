@@ -299,11 +299,6 @@
     "fr": "Acupuncture des oreilles, par période de 5 min.  ",
     "it": "Agopuntura auricolare, ogni 5 min."
   },
-  "1079": {
-    "de": "Ohrkerzen-Therapie, pro 5 Min.",
-    "fr": "Otothérapie par les bougies, par période de 5 min.",
-    "it": "Ototerapia con candele, ogni 5 min."
-  },
   "1080": {
     "de": "Organisch-rhythmische Bewegungsbildung Medau, pro 5 Min.",
     "fr": "Formation du mouvement rythmo-organique Medau, par période de 5 min.",
@@ -525,9 +520,9 @@
     "it": "Bowtech, ogni 5 min. "
   },
   "1146": {
-    "de": "Einwirkzeit im Rahmen einer Behandlung, pro 5 Min.",
-    "fr": "Temps d'effet dans le cadre d'un traitement, par période de 5 min.",
-    "it": "Tempo di effetto entro un trattamento, ogni 5 min."
+    "de": "Einwirkzeit im Rahmen einer Behandlung Einwirkzeit bei Parallelbehandlung, pro 5 Min.",
+    "fr": "Temps d'effet dans le cadre d'un traitement Temps d'action en cas de traitement parallèle, par période de 5 min.",
+    "it": "Tempo di effetto entro un trattamento Tempo di contatto per il trattamento parallelo, ogni 5 min."
   },
   "1200": {
     "de": "Anamnese / Untersuchung / Diagnostik / Befunderhebung, pro 5 Min.",

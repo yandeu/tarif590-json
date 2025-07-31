@@ -2,7 +2,7 @@ import { read } from 'xlsx/xlsx.mjs'
 import { resolve } from 'path'
 import { readFile, writeFile } from 'fs/promises'
 
-const buffer = await readFile(resolve('tarif-590_v4.xlsx'))
+const buffer = await readFile(resolve('tarif-590_v5.xlsx'))
 const workbook = read(buffer, {
   sheetStubs: true,
   cellDates: true,
@@ -30,4 +30,4 @@ for (let i = 3; i < 500; i++) {
   if (position && de && fr && it) tarife = { ...tarife, [position]: { de, fr, it } }
 }
 
-await writeFile(resolve('tarif590.json'), JSON.stringify(tarife), { encoding: 'utf-8' })
+await writeFile(resolve('tarif590.json'), JSON.stringify(tarife, null, 2), { encoding: 'utf-8' })
